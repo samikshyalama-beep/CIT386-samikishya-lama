@@ -1,0 +1,14 @@
+git add .
+git commit -m "Create course repository structure"
+
+git add README.md
+git commit -m "Add course README"
+
+git add module01/deployment-comparison.md
+git commit -m "Add business scenario and workload requirements"
+
+git add module01/deployment-comparison.md
+git commit -m "Compare workload deployment options"
+
+git add module01/deployment-comparison.md
+git commit -m "Add recommendation and finalize Module 1"
